@@ -5,7 +5,7 @@ slug="peft-survey"
 description="V. Lialin, V. Deshpande, A. Rumshisky"
 
 [extra]
-link = "https://ieeexplore.ieee.org/document/10031235"
+link = "https://arxiv.org/abs/2303.15647"
 link_description = "Paper link"
 +++
 
