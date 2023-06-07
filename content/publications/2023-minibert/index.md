@@ -13,7 +13,7 @@ In recent years, language models have drastically grown in size, and the abiliti
 
 <!-- more -->
 
-![Scaling law at 1-20M model size](mini_scaling_law.jpg)
+![Scaling law at 1-20M model size](mini_scaling_law.png)
 
 ### Citation:
 ```bibtex
