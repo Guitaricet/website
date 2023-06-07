@@ -2,7 +2,7 @@
 title="Life after BERT: What do Other Muppets Understand about Language?"
 date=2022-05-21
 slug="life-after-bert"
-description="V. Lialin, K. Zhao, Namrata Shivagunde, A. Rumshisky., ACL 2022"
+description="V. Lialin, K. Zhao, N. Shivagunde, A. Rumshisky., ACL 2022"
 
 [extra]
 link = "https://aclanthology.org/2022.acl-long.227/"
