@@ -169,6 +169,7 @@ galleria.enabled = true
 navbar_items = [
     { code = "en", nav_items = [
         { url = "$BASE_URL/", download=false, name = "Home" },
+        { url = "$BASE_URL/blog", download=false, name = "Blog" },
         { url = "$BASE_URL/publications", download=false, name = "Publications" },
         { url = "https://storage.googleapis.com/vlialin-share/vladislav_lialin_cv.pdf", download=true, name="CV"},
     ] },
