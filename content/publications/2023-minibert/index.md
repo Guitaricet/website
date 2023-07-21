@@ -13,20 +13,23 @@ In recent years, language models have drastically grown in size, and the abiliti
 
 <!-- more -->
 
-![Scaling law at 1-20M model size](mini_scaling_law.png){:height="50%" width="50%"}
+![Scaling law at 1-20M model size](mini_scaling_law.png)
 
 ### Citation:
 ```bibtex
 @inproceedings{deshpande-2023-shrunk,
-    title = "Honey, I Shrunk the Language: Language Model Behavior at Reduced Scale",
-    author = "Vijeta Deshpande and
-              Dan Pechi and
-              Shree Thatte and
-              Vladislav Lialin and
-              Anna Rumshisky",
+    title = "Honey, {I} Shrunk the Language: Language Model Behavior at Reduced Scale.",
+    author = "Deshpande, Vijeta  and
+      Pechi, Dan  and
+      Thatte, Shree  and
+      Lialin, Vladislav  and
+      Rumshisky, Anna",
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
     year = "2023",
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.326",
+    pages = "5298--5314",
 }
 ```
